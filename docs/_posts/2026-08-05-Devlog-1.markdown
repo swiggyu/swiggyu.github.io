@@ -6,4 +6,5 @@ title: "Devlog 1"
 
 Actually managed to get the website to display some of the frontmatter I've been giving it. I still need to sort out the themes and layout and what im going to add onto here and everything, but that's an issue for me later. Considering linking to another repo full of my python scripts. A subsection dedicated to neuroscience would be cool, but I'm not _entirely_ sure how I'd go about that.
 
-Everything here is incredibly scuffed but at least I've figured out the core mechanics and it works. Spent far too long troubleshooting a colon.
+Everything here is incredibly scuffed but at least I've figured out the core mechanics and it works. Spent far too long troubleshooting a colon today. Also spent too much time trying to figure out how to scrub what's left of the jekyll links.
+But I'm glad things are getting done. By me. 
