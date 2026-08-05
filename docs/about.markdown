@@ -1,17 +1,12 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
+## work in progress/under maintenance
 
-#This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### how to contact me? 
+email, mainly.
 
-
-work in progress/under maintenance
-
-who am i?
-Sal, 19, does neuroscience. kinda epic
-
-how to contact?
-email, mainly. 
+maybe one day i'll update this with any sort of clue as to who i am, but thats for when i get everything looking somewhat okay.

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sal's big awesome website (wip)
+title: big awesome site promise!!!!
 email: johndoe@notreal.com
 description: yeah im up making the website look presentable sometimes
 #baseurl is the subpath of your site, e.g. /home
