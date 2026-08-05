@@ -4,6 +4,7 @@
 ---
 layout: home
 title: Big Awesome Website
+permalink: /home/
 ---
 
 TEST TEST PLEASE WORK
