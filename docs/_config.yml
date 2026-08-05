@@ -20,7 +20,7 @@
 
 title: Sal's big awesome website (wip)
 email: mbycm17@nottingham.ac.uk
-description: >- yeah im up making the website look presentable sometimes
+description: yeah im up making the website look presentable sometimes
 baseurl: "/home" # the subpath of your site, e.g. /home
 url: "https://swiggyu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: swiggyu.github.io
